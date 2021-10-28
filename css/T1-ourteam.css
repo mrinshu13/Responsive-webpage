@@ -1,0 +1,122 @@
+*{
+	font-family: Montserrat,sans-serif;
+	margin:0px;
+	padding:0px;
+}
+.rd{
+    background-image:url(https://www.firstfiddle.in/assets/images/franchise-with-us.jpg);
+    width:100%;
+}
+.img-title{
+    margin-top:200px;
+    margin-bottom:200px;
+}
+.brands{
+    font-size:100px;
+}
+@media(max-width:460px){
+    .brands{
+        font-size:50px;
+    }
+}
+@media(max-width: 460px)
+{
+	.img-title{
+		text-align: center;
+    	margin-right: 0;
+    	font-size:20px;
+	}
+}
+
+/* div img */
+.priyanka{
+    margin-left: 15px;
+    margin-top:40px;
+    margin-bottom:20px;
+}
+
+@media(max-width:460px){
+    .priyanka{
+        margin-top:0px;
+        padding:20px;
+        margin-bottom:10px; 
+    }
+}
+@media(max-width:460px){
+     .a{
+        width:90%;
+    }
+}
+.heading{
+    margin-top:60px;
+    font-family: Montserrat,sans-serif;
+}
+@media(max-width:460px){
+    .heading{
+        margin-top:0px;
+    }
+}
+.pera{
+    font-size:13px;
+    font-family: Montserrat,sans-serif;
+    text-align: justify;
+    color:#a99999;
+    letter-spacing:2px;
+    word-spacing:3px;
+}
+.e{
+    background-color: #fbac29;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    color: white;
+}
+.heading{
+    margin-top:-65px;
+    margin-bottom:0px;
+    font-weight:bold;
+    color:white;
+    font-size:25px;
+    font-family:monospace;
+    text-align:center;
+}
+
+/* footer div  */
+
+
+.img3{
+  margin-top:120px;
+}
+@media(max-width: 760px){
+  .img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top:50px;
+  }
+}
+.h1t{
+  font-family:prague;
+  font-size:50px;
+  font-weight:normal;
+  text-align:center;
+}
+@media(max-width:760px){
+  .h1t{
+    font-size:40px;
+    font-family:prague;
+    font-weight:normal;
+  }
+}
+@media(max-width:760px){
+  .p1t{
+    text-align:justify;
+  }
+}
+.ff{
+  padding:5px;
+  margin-bottom:50px;
+}
+.cd{
+  background-color:black;
+  color:white;
+}

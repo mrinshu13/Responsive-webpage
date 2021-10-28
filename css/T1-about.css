@@ -1,0 +1,133 @@
+.a{
+  padding-top: 20px;
+  font-family: prague;
+  letter-spacing: 3px;
+  font-size:35px;
+  }
+@media(max-width:760px){
+  .a{
+    font-size:30px;
+    word-spacing:5px;
+    letter-spacing:3px;
+    font-weight:bolder;
+  }
+}
+.b{
+  line-height: 30px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  text-align: justify;
+}
+.e{
+  margin-top: 30px;
+  background-color:#fbaa1a;
+  color:black;
+  margin-bottom:30px;
+}
+.img{
+  width: 100%;
+  height:95%;
+  box-shadow: 0 0px 0px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+@media(max-width: 768px)
+{
+  .img{
+    width: 100%;
+  }
+}
+
+/*container 2 start*/
+
+.why{
+  background-image: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+  width: 100%;
+  padding-right: 0!important;
+  padding-left: 0!important;
+  margin-right: auto;
+  margin-left: auto;
+  background-size: cover;
+  margin-top: 35px;
+}
+.mt-20{
+  padding-top:100px;
+  font-family: prague;
+  color: #fff;
+  font-size: 60px;
+}
+.ms{
+  line-height: 40px;
+  letter-spacing: 3px;
+  word-spacing:5px;
+  color: white;
+  padding-bottom:100px;
+}
+@media(max-width: 760px){
+  .mt-20{
+    font-weight: bold;
+    font-size: 30px;
+    color:white;
+  }
+}
+.b1{
+  font-size: 15px;
+  line-height: 35px;
+  letter-spacing: 2px;
+  word-spacing: 3px;
+  font-family: Montserrat,sans-serif;
+  text-align: justify;
+}
+.img2{
+  width:80%;
+  border-radius:36px 36px;
+  box-shadow: 0 0px 0px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+@media(max-width: 768px)
+{
+  .img2{
+    width: 100%;
+    border-radius:0px 0px;
+    margin-bottom:20px;
+    margin-top:5px;
+  }
+}
+
+/* div 5 and 6 */
+
+.img3{
+  margin-top:120px;
+}
+@media(max-width: 760px){
+  .img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top:50px;
+  }
+}
+.h1t{
+  font-family:prague;
+  font-size:50px;
+  font-weight:normal;
+  text-align:center;
+}
+@media(max-width:760px){
+  .h1t{
+    font-size:40px;
+    font-family:prague;
+    font-weight:normal;
+  }
+}
+@media(max-width:760px){
+  .p1t{
+    text-align:justify;
+  }
+}
+.ff{
+  padding:5px;
+  margin-bottom:50px;
+}
+.cd{
+  background-color:black;
+  color:white;
+}

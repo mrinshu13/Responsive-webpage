@@ -1,0 +1,58 @@
+*{
+	font-family: sans-serif;
+	margin:0px;
+	padding:0px;
+}
+.rd{
+    background-image:url(https://www.firstfiddle.in/assets/images/contact-new.jpg);
+    width:100%;
+}
+.img-title{
+    margin-top:250px;
+    margin-bottom:250px;
+}
+.brands{
+    font-size:100px;
+}
+
+/* footer div  */
+
+
+.img3{
+  margin-top:120px;
+}
+@media(max-width: 760px){
+  .img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top:50px;
+  }
+}
+.h1t{
+  font-family:prague;
+  font-size:50px;
+  font-weight:normal;
+  text-align:center;
+}
+@media(max-width:760px){
+  .h1t{
+    font-size:40px;
+    font-family:prague;
+    font-weight:normal;
+  }
+}
+@media(max-width:760px){
+  .p1t{
+    text-align:justify;
+  }
+}
+.ff{
+  padding:5px;
+  margin-bottom:50px;
+}
+.cd{
+  background-color:black;
+  color:white;
+}
